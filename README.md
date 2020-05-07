@@ -21,9 +21,6 @@ Pour montrer cela il faut lié alcool, cannabis et accident de la route. En effe
 
 ![](https://github.com/Svt-lim/5eme-SNC-Final/blob/master/Doc5.png)
 
-![](https://github.com/Svt-lim/5eme-SNC-Final/blob/master/Doc7.png)
-
-
 
 ### <u>Question 2</u> : doc 4 et 5. Donner les caractéristiques du système de récompense en précisant son effet l'activité des neurones. 
 
