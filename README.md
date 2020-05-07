@@ -4,13 +4,8 @@ Le système nerveux central est un ensemble d'organe très complexe, très effic
 
 ### <u>Comment les conduites addictives agissent-elles sur l'activité nerveuse ?</u>
 
-
-
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github.com/Svt-lim/5eme-SNC-Final/blob/master/Doc1.png) | ![](https://github.com/Svt-lim/5eme-SNC-Final/blob/master/Doc3.png) |
-
-
+![](https://github.com/Svt-lim/5eme-SNC-Final/blob/master/Doc1.png)
+![](https://github.com/Svt-lim/5eme-SNC-Final/blob/master/Doc3.png)
 
 ### <u>Question 1</u> : Doc 1 et 3 *(Il n y a pas de document 2, c'est normal)* Montrer que les effets recherchés par l'usage de produits psychoactifs s'accompagnent de risques pour l'individu et son entourage. 
 
