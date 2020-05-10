@@ -11,7 +11,7 @@ Le système nerveux central est un ensemble d'organe très complexe, très effic
 
 <details>
   <summary>Correction</summary>
-Pour montrer cela il faut lié alcool, cannabis et accident de la route. En effet consommer de l'alcool et du cannabis multiplie par 7 le risque d'accident de la route.
+Pour montrer cela il faut lier alcool, cannabis et accident de la route. En effet consommer de l'alcool et du cannabis multiplie par 7 le risque d'accident de la route.
 </details>
 
 |                                                              |                                                              |
